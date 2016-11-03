@@ -1,7 +1,7 @@
 ﻿/*
 
 -----------------------------ToDo------------------------------
-
+    -) Change title on Google play 
     -) Add title in menu screen
     -) Add SoundButton in game
     -) Flash when respawning.
